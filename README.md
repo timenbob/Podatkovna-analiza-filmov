@@ -1,4 +1,4 @@
-# Podatkovna-nalaiza-filmov
+# Podatkovna-analiza-filmov
 
 To je projekt pri predmetu Programiranje 2 (PRA) narejen v letu 2023. V najem analiziramo filme glede na finance, ocene in nagrade v odvisnosti od let.
 * Podatke o financah filmov smo pridobili iz strani: [The numbers](https://www.the-numbers.com/movie/budgets/all) 
