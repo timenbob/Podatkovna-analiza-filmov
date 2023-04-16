@@ -8,5 +8,5 @@ To je projekt pri predmetu Programiranje 2 (PRA) narejen v letu 2023. V najem an
 
 Avtorji projekta:
 * Timen Bobnar [git](https://github.com/timenbob)
-* Milica Vukićević 
+* Milica Vukićević [git](https://github.com/VukicevicM)
 
