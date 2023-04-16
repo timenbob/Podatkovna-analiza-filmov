@@ -271,7 +271,7 @@ while True:
     if kaj=="1":
         nalozeno = False
         
-        print('Nalaganje traja približno dve minute...')
+        print('Nalaganje traja približno dve minuti...')
         
         pygame.init()
         pygame.mixer.music.load("music.mp3")
